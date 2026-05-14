@@ -13,8 +13,8 @@ The accountant interface is a read-only app hardcoded to the operationslog datab
 # Getting Started
 Requirements:
 
-- **Java 17+**
-- **MySQL 8.x**
+- **Java 17+** 
+- **MySQL 8.x** 
 - **MySQL Connector/J 9.6.0**
 - **Eclipse IDE**
 
