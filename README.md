@@ -13,19 +13,19 @@ The accountant interface is a read-only app hardcoded to the operationslog datab
 # Getting Started
 Requirements:
 
-**Java 17+**
-**MySQL 8.x**
-**MySQL Connector/J 9.6.0**
-**Eclipse IDE**
+- **Java 17+**
+- **MySQL 8.x**
+- **MySQL Connector/J 9.6.0**
+- **Eclipse IDE**
 
 # Database Setup
 Run the following SQL scripts in MySQL Workbench in this order:
 
-**project3dbscript.sql**
-**bikedb script** 
-**project3operationslog.sql**
-**UserCreationScriptProject3.sql**
-**UserPermissionsScriptProject3.sql**
+- **project3dbscript.sql**
+- **bikedb script** 
+- **project3operationslog.sql**
+- **UserCreationScriptProject3.sql**
+- **UserPermissionsScriptProject3.sql**
 
 # Eclipse Setup
 
